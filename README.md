@@ -1,0 +1,1 @@
+This is my attempt to Task2 of Level 1 of creating Landing Page of a website.This repository showcases my landing page of web development projects.  I'm dedicated to building high-quality, user-friendly websites and applications. 
